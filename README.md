@@ -1,1 +1,1 @@
-# Fine-Tuning-an-LLM-with-Structured-Socioeconomic-Data-for-Policy-Analysis
+# Fine-Tuning an LLM with an Additional Layer for Multi-Class Economic Sector Classification in Job Postings
